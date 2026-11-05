@@ -1,0 +1,5 @@
+name: dart_websocket_dart
+description: WebSocket client with reconnect and heartbeat
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
